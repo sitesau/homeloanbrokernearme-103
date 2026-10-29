@@ -1,0 +1,22 @@
+{
+  "wheel_id": 505,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernearme-103",
+  "project": "home-loan-brokers-brisbane-documents-needed-d9c7b8a6b85e823d021",
+  "parent_t1_ref": "homeloanbrokernearme-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernearme.com.au",
+  "primary_kw": "home loan brokers brisbane documents needed",
+  "intended_url": "https://sitesau.github.io/homeloanbrokernearme-103/",
+  "tier": "T2",
+  "writeback_nonce": "21619dff1239525b",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-brisbane-eligibility-62b3f2117df88e6523b56/",
+      "anchor": "this home loan brokers brisbane eligibility resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
